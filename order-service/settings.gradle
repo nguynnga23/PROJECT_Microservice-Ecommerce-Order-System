@@ -1,0 +1,2 @@
+rootProject.name = 'order-service'
+include 'base-domains', 'order-service', 'inventory-service', 'email-service'
